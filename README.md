@@ -1,2 +1,2 @@
 # springboot_projs
-i love coding
+don't stop practicing
